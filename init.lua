@@ -1,1 +1,1 @@
-print('works!')
+require("config.lazy")
